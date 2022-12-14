@@ -1,0 +1,702 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Subscribers": [
+    {
+      "Subscriber_Email": "meroking2001@yahoo.com",
+      "id": 1
+    }
+  ],
+  "topSales": [
+    {
+      "id": 1,
+      "name": "Game controller (joystick)",
+      "description": "Nacon GC-400ES Wired PC Gaming Controller",
+      "image": "../../../../assets/top_sales/topsale1.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale1.png",
+        "img2": "../../../../assets/top_sales/subImgs/controller1.png",
+        "img3": "../../../../assets/top_sales/subImgs/controller2.png",
+        "img4": "../../../../assets/top_sales/subImgs/controller3.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 3199,
+      "priceAfterSale": 2239,
+      "category": "Accessories",
+      "starRating": 5
+    },
+    {
+      "id": 2,
+      "name": "Game controller",
+      "description": "Xbox Series X|S Wireless Controller + USB-C Cable",
+      "image": "../../../../assets/top_sales/topsale2.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale2.png",
+        "img2": "../../../../assets/top_sales/subImgs/controller4.png",
+        "img3": "../../../../assets/top_sales/subImgs/controller5.png",
+        "img4": "../../../../assets/top_sales/subImgs/controller6.png"
+      },
+      "saleAmount": 32,
+      "mainPrice": 2199,
+      "priceAfterSale": 1539,
+      "category": "Accessories",
+      "starRating": 4
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Redmi",
+      "description": "Xiaomi Redmi Note 11 pro Plus 5G 8GB Ram 256GB",
+      "image": "../../../../assets/top_sales/topsale3.jpg",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale3.jpg",
+        "img2": "../../../../assets/top_sales/subImgs/XiaomiRedmi1.png",
+        "img3": "../../../../assets/top_sales/subImgs/XiaomiRedmi2.png",
+        "img4": "../../../../assets/top_sales/subImgs/XiaomiRedmi3.png"
+      },
+      "saleAmount": 20,
+      "mainPrice": 12500,
+      "priceAfterSale": 10000,
+      "category": "Mobiles",
+      "starRating": 5
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S22 Ultra",
+      "description": "Samsung Galaxy S22 Ultra 5G 12GB Ram 512GB",
+      "image": "../../../../assets/top_sales/topsale4.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale4.png",
+        "img2": "../../../../assets/top_sales/subImgs/s22.png",
+        "img3": "../../../../assets/top_sales/subImgs/s222.png",
+        "img4": "../../../../assets/top_sales/subImgs/s223.png"
+      },
+      "saleAmount": 10,
+      "mainPrice": 36999,
+      "priceAfterSale": 33299,
+      "category": "Mobiles",
+      "starRating": 4
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy A23",
+      "description": "Samsung Galaxy A23 4GB Ram 128GB (EG)",
+      "image": "../../../../assets/top_sales/topsale5.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale5.png",
+        "img2": "../../../../assets/top_sales/subImgs/SamsungA23.png",
+        "img3": "../../../../assets/top_sales/subImgs/SamsungA232.png",
+        "img4": "../../../../assets/top_sales/subImgs/SamsungA234.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 5599,
+      "priceAfterSale": 3919,
+      "category": "Mobiles",
+      "starRating": 4
+    },
+    {
+      "id": 6,
+      "name": "iPhone 14 Pro Max",
+      "description": "IPhone 14 Pro Max 6GB Ram 256GB Dark Color",
+      "image": "../../../../assets/top_sales/topsale6.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale6.png",
+        "img2": "../../../../assets/top_sales/subImgs/iphone131.png",
+        "img3": "../../../../assets/top_sales/subImgs/iphone132.jpg",
+        "img4": "../../../../assets/top_sales/subImgs/iphone133.png"
+      },
+      "saleAmount": 20,
+      "mainPrice": 38999,
+      "priceAfterSale": 31199,
+      "category": "Mobiles",
+      "starRating": 5
+    },
+    {
+      "id": 7,
+      "name": "iPhone 13",
+      "description": "Apple iPhone 13 128GB 4GB Ram Dark Blue Color",
+      "image": "../../../../assets/top_sales/topsale7.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale7.png",
+        "img2": "../../../../assets/top_sales/subImgs/iphone13-1.png",
+        "img3": "../../../../assets/top_sales/subImgs/iphone13-2.png",
+        "img4": "../../../../assets/top_sales/subImgs/iphone13-3.png"
+      },
+      "saleAmount": 28,
+      "mainPrice": 30999,
+      "priceAfterSale": 21699,
+      "category": "Mobiles",
+      "starRating": 4
+    },
+    {
+      "id": 8,
+      "name": "Wired Headset",
+      "description": "MONSTER RGB Color Wired Gaming Headset",
+      "image": "../../../../assets/top_sales/topsale8.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale8.png",
+        "img2": "../../../../assets/top_sales/subImgs/headsetRgb1.png",
+        "img3": "../../../../assets/top_sales/subImgs/headsetRgb2.png",
+        "img4": "../../../../assets/top_sales/subImgs/headsetRgb3.png"
+      },
+      "saleAmount": 60,
+      "mainPrice": 599,
+      "priceAfterSale": 239,
+      "category": "Accessories",
+      "starRating": 4
+    },
+    {
+      "id": 9,
+      "name": "Wireless Headset",
+      "description": "Sony PS5 Pulse 3D Wireless Gaming Headset",
+      "image": "../../../../assets/top_sales/topsale9.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale9.png",
+        "img2": "../../../../assets/top_sales/subImgs/wireless1.png",
+        "img3": "../../../../assets/top_sales/subImgs/wireless2.png",
+        "img4": "../../../../assets/top_sales/subImgs/wireless3.png"
+      },
+      "saleAmount": 10,
+      "mainPrice": 3199,
+      "priceAfterSale": 2879,
+      "category": "Accessories",
+      "starRating": 5
+    },
+    {
+      "id": 10,
+      "name": "Lenovo IdeaPad 5",
+      "description": "Lenovo IdeaPad 5 Gaming Laptop -Intel Core I5-11300H - 8GB RAM - 512GB SSD - 15-inch FHD - NVIDIA GeForce GTX 1650 4GB GPU - Windows 11 - Black (Backlit Arabic/English Keyboard)",
+      "image": "../../../../assets/top_sales/topsale10.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale10.png",
+        "img2": "../../../../assets/top_sales/subImgs/lenovo1.png",
+        "img3": "../../../../assets/top_sales/subImgs/lenovo2.png",
+        "img4": "../../../../assets/top_sales/subImgs/lenovo3.png"
+      },
+      "saleAmount": 60,
+      "mainPrice": 15499,
+      "priceAfterSale": 6199,
+      "category": "Laptops",
+      "starRating": 4
+    },
+    {
+      "id": 11,
+      "name": "Lenovo Legion 5",
+      "description": "Lenovo Legion 5 Pro ( Core I7 12700H – 32G Ram -1TB NVME -VGA Nvidia 6G RTX 3060 -16.0 WQXGA 165Hz – Grey )",
+      "image": "../../../../assets/top_sales/topsale11.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale11.png",
+        "img2": "../../../../assets/top_sales/subImgs/lenovo-1.png",
+        "img3": "../../../../assets/top_sales/subImgs/lenovo-2.png",
+        "img4": "../../../../assets/top_sales/subImgs/lenovo-3.png"
+      },
+      "saleAmount": 20,
+      "mainPrice": 36499,
+      "priceAfterSale": 29199,
+      "category": "Laptops",
+      "starRating": 5
+    },
+    {
+      "id": 12,
+      "name": "Apple Mac mini",
+      "description": "Apple Mac Air 13 (2020) M1 8C CPU 7C GPU / 8GB / 256GB / Space Gray ( English )",
+      "image": "../../../../assets/top_sales/topsale12.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale12.png",
+        "img2": "../../../../assets/top_sales/subImgs/mac1.png",
+        "img3": "../../../../assets/top_sales/subImgs/mac3.png",
+        "img4": "../../../../assets/top_sales/subImgs/mac4.png"
+      },
+      "saleAmount": 10,
+      "mainPrice": 27500,
+      "priceAfterSale": 24750,
+      "category": "Laptops",
+      "starRating": 5
+    },
+    {
+      "id": 13,
+      "name": "Apple Macbook",
+      "description": "Apple Macbook Pro 16.2-inch M1 Pro chip with 10-Core CPU and 16-Core GPU /16GB /512GB",
+      "image": "../../../../assets/top_sales/topsale13.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale13.png",
+        "img2": "../../../../assets/top_sales/subImgs/macbook1.png",
+        "img3": "../../../../assets/top_sales/subImgs/macbook2.png",
+        "img4": "../../../../assets/top_sales/subImgs/macbook3.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 81999,
+      "priceAfterSale": 57999,
+      "category": "Laptops",
+      "starRating": 4
+    },
+    {
+      "id": 14,
+      "name": "Apple iPad mini 6",
+      "description": "Apple iPad mini 6 (2021) WiFi + Cellular 6th-Wi-Fi. 256GB-Starlight",
+      "image": "../../../../assets/top_sales/topsale14.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale14.png",
+        "img2": "../../../../assets/top_sales/subImgs/ipadmini3.png",
+        "img3": "../../../../assets/top_sales/subImgs/ipadmini1.png",
+        "img4": "../../../../assets/top_sales/subImgs/ipadmini2.png"
+      },
+      "saleAmount": 20,
+      "mainPrice": 24999,
+      "priceAfterSale": 21999,
+      "category": "Taplets",
+      "starRating": 5
+    },
+    {
+      "id": 15,
+      "name": "Apple iPad Pro",
+      "description": "Apple iPad Pro 11 12.9-inch (2021) Wi-Fi Only - 128GB - Wi‑Fi + Cellular - Space Gray",
+      "image": "../../../../assets/top_sales/topsale15.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale15.png",
+        "img2": "../../../../assets/top_sales/subImgs/appleIpadPro1.png",
+        "img3": "../../../../assets/top_sales/subImgs/appleIpadPro3.png",
+        "img4": "../../../../assets/top_sales/subImgs/appleIpadPro2.png"
+      },
+      "saleAmount": 48,
+      "mainPrice": 64999,
+      "priceAfterSale": 34999,
+      "category": "Taplets",
+      "starRating": 4
+    },
+    {
+      "id": 16,
+      "name": "Apple Magic Keyboard",
+      "description": "Apple Magic Keyboard for iPad Pro 12.9 inch (3rd/4th/5th) – Arabic / English",
+      "image": "../../../../assets/top_sales/topsale16.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale16.png",
+        "img2": "../../../../assets/top_sales/subImgs/appleBoard1.png",
+        "img3": "../../../../assets/top_sales/subImgs/appleBoard2.png",
+        "img4": "../../../../assets/top_sales/subImgs/appleBoard3.png"
+      },
+      "saleAmount": 17,
+      "mainPrice": 13999,
+      "priceAfterSale": 11499,
+      "category": "Taplets",
+      "starRating": 5
+    }
+  ],
+  "Mobiles": [
+    {
+      "id": 17,
+      "name": "iPhone 12",
+      "description": "IPhone 12 4GB Ram 128GB Purple Color 12MB Best Color in the IPhone Family 2021",
+      "image": "../../../../assets/mobiles/1.png",
+      "subImages": {
+        "img1": "../../../../assets/mobiles/1.png",
+        "img2": "../../../../assets/mobiles/subImgs/4.png",
+        "img3": "../../../../assets/mobiles/subImgs/5.png",
+        "img4": "../../../../assets/mobiles/subImgs/6.png"
+      },
+      "saleAmount": 17,
+      "mainPrice": 13999,
+      "priceAfterSale": 11499,
+      "category": "iphone",
+      "starRating": 5
+    },
+    {
+      "id": 18,
+      "name": "iPhone 11 Pro Max",
+      "description": "Apple iPhone 11 Pro Max 128GB 6GB Ram Dark Color 2020",
+      "image": "../../../../assets/mobiles/2.png",
+      "subImages": {
+        "img1": "../../../../assets/mobiles/2.png",
+        "img2": "../../../../assets/mobiles/subImgs/7.png"
+      },
+      "saleAmount": 15,
+      "mainPrice": 23999,
+      "priceAfterSale": 21899,
+      "category": "iphone",
+      "starRating": 4
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Redmi",
+      "description": "Xiaomi Redmi Note 11 pro Plus 5G 8GB Ram 256GB",
+      "image": "../../../../assets/mobiles/3.jpg",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale3.jpg",
+        "img2": "../../../../assets/top_sales/subImgs/XiaomiRedmi1.png",
+        "img3": "../../../../assets/top_sales/subImgs/XiaomiRedmi2.png",
+        "img4": "../../../../assets/top_sales/subImgs/XiaomiRedmi3.png"
+      },
+      "saleAmount": 20,
+      "mainPrice": 12500,
+      "priceAfterSale": 10000,
+      "category": "samsung",
+      "starRating": 4
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S22 Ultra",
+      "description": "Samsung Galaxy S22 Ultra 5G 12GB Ram 512GB",
+      "image": "../../../../assets/mobiles/4.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale4.png",
+        "img2": "../../../../assets/top_sales/subImgs/s22.png",
+        "img3": "../../../../assets/top_sales/subImgs/s222.png",
+        "img4": "../../../../assets/top_sales/subImgs/s223.png"
+      },
+      "saleAmount": 10,
+      "mainPrice": 36999,
+      "priceAfterSale": 33299,
+      "category": "samsung",
+      "starRating": 4
+    },
+    {
+      "id": 7,
+      "name": "iPhone 13",
+      "description": "IPhone 13 4GB Ram 128GB Royal bLue Color 12MB Best Color in the IPhone Family 2022",
+      "image": "../../../../assets/mobiles/7.png",
+      "subImages": {
+        "img1": "../../../../assets/mobiles/7.png",
+        "img2": "../../../../assets/top_sales/subImgs/iphone13-1.png",
+        "img3": "../../../../assets/top_sales/subImgs/iphone13-2.png",
+        "img4": "../../../../assets/top_sales/subImgs/iphone13-3.png"
+      },
+      "saleAmount": 28,
+      "mainPrice": 30999,
+      "priceAfterSale": 216993,
+      "category": "iphone",
+      "starRating": 5
+    },
+    {
+      "id": 6,
+      "name": "iPhone 14 Pro Max",
+      "description": "IPhone 14 Pro Max 6GB Ram 256GB Dark Color",
+      "image": "../../../../assets/mobiles/6.png",
+      "subImages": {
+        "img1": "../../../../assets/mobiles/6.png",
+        "img2": "../../../../assets/top_sales/subImgs/iphone131.png",
+        "img3": "../../../../assets/top_sales/subImgs/iphone132.jpg",
+        "img4": "../../../../assets/top_sales/subImgs/iphone133.png"
+      },
+      "saleAmount": 20,
+      "mainPrice": 38999,
+      "priceAfterSale": 31992,
+      "category": "iphone",
+      "starRating": 5
+    },
+    {
+      "id": 19,
+      "name": "Samsung Galaxy A23",
+      "description": "Quad rear camera setup- Main Camera 108MP + Ultra Wide 12MP Dual Pixel Camera + Tele1 3X 10MP Dual Pixel Camera + Tele2 10x 10MP Dual pixel camera | 40MP front facing camera",
+      "image": "../../../../assets/mobiles/8.png",
+      "subImages": {
+        "img1": "../../../../assets/mobiles/8.png",
+        "img2": "../../../../assets/mobiles/subImgs/8.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 20000,
+      "priceAfterSale": 14000,
+      "category": "samsung",
+      "starRating": 4
+    },
+    {
+      "id": 20,
+      "name": "Samsung Galaxy Note 20 Ultra",
+      "description": "Shoots pro-quality 8k video and lets you change the frame rate, putting you in complete control",
+      "image": "../../../../assets/mobiles/9.png",
+      "subImages": {
+        "img1": "../../../../assets/mobiles/9.png",
+        "img2": "../../../../assets/mobiles/subImgs/1.png",
+        "img3": "../../../../assets/mobiles/subImgs/2.png",
+        "img4": "../../../../assets/mobiles/subImgs/3.png"
+      },
+      "saleAmount": 50,
+      "mainPrice": 50599,
+      "priceAfterSale": 25899,
+      "category": "samsung",
+      "starRating": 5
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy A23",
+      "description": "Samsung Galaxy A23 4GB Ram 128GB (EG) 2019 latest version alot of colors",
+      "image": "../../../../assets/mobiles/5.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale5.png",
+        "img2": "../../../../assets/top_sales/subImgs/SamsungA23.png",
+        "img3": "../../../../assets/top_sales/subImgs/SamsungA232.png",
+        "img4": "../../../../assets/top_sales/subImgs/SamsungA234.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 5599,
+      "priceAfterSale": 3919,
+      "category": "samsung",
+      "starRating": 5
+    }
+  ],
+  "Laptops": [
+    {
+      "id": 10,
+      "name": "Lenovo IdeaPad 5",
+      "description": "Lenovo IdeaPad 5 Gaming Laptop -Intel Core I5-11300H - 8GB RAM - 512GB SSD - 15-inch FHD - NVIDIA GeForce GTX 1650 4GB GPU - Windows 11 - Black (Backlit Arabic/English Keyboard)",
+      "image": "../../../../assets/top_sales/topsale10.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale10.png",
+        "img2": "../../../../assets/top_sales/subImgs/lenovo1.png",
+        "img3": "../../../../assets/top_sales/subImgs/lenovo2.png",
+        "img4": "../../../../assets/top_sales/subImgs/lenovo3.png"
+      },
+      "saleAmount": 60,
+      "mainPrice": 15499,
+      "priceAfterSale": 6199,
+      "category": "Lenovo",
+      "starRating": 4
+    },
+    {
+      "id": 11,
+      "name": "Lenovo Legion 5",
+      "description": "Lenovo Legion 5 Pro ( Core I7 12700H – 32G Ram -1TB NVME -VGA Nvidia 6G RTX 3060 -16.0 WQXGA 165Hz – Grey )",
+      "image": "../../../../assets/top_sales/topsale11.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale11.png",
+        "img2": "../../../../assets/top_sales/subImgs/lenovo-1.png",
+        "img3": "../../../../assets/top_sales/subImgs/lenovo-2.png",
+        "img4": "../../../../assets/top_sales/subImgs/lenovo-3.png"
+      },
+      "saleAmount": 20,
+      "mainPrice": 36499,
+      "priceAfterSale": 29199,
+      "category": "Lenovo",
+      "starRating": 5
+    },
+    {
+      "id": 12,
+      "name": "Apple Mac mini",
+      "description": "Apple Mac Air 13 (2020) M1 8C CPU 7C GPU / 8GB / 256GB / Space Gray ( English )",
+      "image": "../../../../assets/top_sales/topsale12.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale12.png",
+        "img2": "../../../../assets/top_sales/subImgs/mac1.png",
+        "img3": "../../../../assets/top_sales/subImgs/mac3.png",
+        "img4": "../../../../assets/top_sales/subImgs/mac4.png"
+      },
+      "saleAmount": 10,
+      "mainPrice": 27500,
+      "priceAfterSale": 24750,
+      "category": "Mac",
+      "starRating": 5
+    },
+    {
+      "id": 13,
+      "name": "Apple Macbook",
+      "description": "Apple Macbook Pro 16.2-inch M1 Pro chip with 10-Core CPU and 16-Core GPU /16GB /512GB",
+      "image": "../../../../assets/top_sales/topsale13.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale13.png",
+        "img2": "../../../../assets/top_sales/subImgs/macbook1.png",
+        "img3": "../../../../assets/top_sales/subImgs/macbook2.png",
+        "img4": "../../../../assets/top_sales/subImgs/macbook3.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 81999,
+      "priceAfterSale": 57999,
+      "category": "Mac",
+      "starRating": 4
+    },
+    {
+      "id": 21,
+      "name": "Dell Laptop 5500",
+      "description": "Dell Laptop G5 15 5500 Gaming Laptop 16.2-inch chip with 10-Core CPU and 16-Core GPU /16GB /512GB",
+      "image": "../../../../assets/laptops/1.png",
+      "subImages": {
+        "img1": "../../../../assets/laptops/1.png",
+        "img2": "../../../../assets/laptops/2.png",
+        "img3": "../../../../assets/laptops/3.png",
+        "img4": "../../../../assets/laptops/4.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 81999,
+      "priceAfterSale": 57999,
+      "category": "Dell",
+      "starRating": 4
+    },
+    {
+      "id": 22,
+      "name": "Dell Laptop 5510",
+      "description": "Dell Laptop G5 15 5510 Gaming Laptop 16.2-inch chip with 10-Core CPU and 16-Core GPU /16GB /512GB",
+      "image": "../../../../assets/laptops/5.png",
+      "subImages": {
+        "img1": "../../../../assets/laptops/5.png",
+        "img2": "../../../../assets/laptops/6.png",
+        "img3": "../../../../assets/laptops/7.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 81999,
+      "priceAfterSale": 57999,
+      "category": "Dell",
+      "starRating": 4
+    },
+    {
+      "id": 27,
+      "name": "Televisions",
+      "description": "Big Televistion 44P 8K Samsung Smart TV, Sony 4K, Vizio M Series, LG Flat Screen TVs",
+      "image": "../../../../assets/laptops/12.png",
+      "subImages": {
+        "img1": "../../../../assets/laptops/12.png",
+        "img2": "../../../../assets/laptops/13.png",
+        "img3": "../../../../assets/laptops/14.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 12999,
+      "priceAfterSale": 9999,
+      "category": "Television",
+      "starRating": 4
+    }
+  ],
+  "Accessories": [
+    {
+      "id": 1,
+      "name": "Game controller (joystick)",
+      "description": "Nacon GC-400ES Wired PC Gaming Controller",
+      "image": "../../../../assets/top_sales/topsale1.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale1.png",
+        "img2": "../../../../assets/top_sales/subImgs/controller1.png",
+        "img3": "../../../../assets/top_sales/subImgs/controller2.png",
+        "img4": "../../../../assets/top_sales/subImgs/controller3.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 3199,
+      "priceAfterSale": 2239,
+      "category": "Controller",
+      "starRating": 5
+    },
+    {
+      "id": 2,
+      "name": "Game controller",
+      "description": "Xbox Series X|S Wireless Controller + USB-C Cable",
+      "image": "../../../../assets/top_sales/topsale2.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale2.png",
+        "img2": "../../../../assets/top_sales/subImgs/controller4.png",
+        "img3": "../../../../assets/top_sales/subImgs/controller5.png",
+        "img4": "../../../../assets/top_sales/subImgs/controller6.png"
+      },
+      "saleAmount": 32,
+      "mainPrice": 2199,
+      "priceAfterSale": 1539,
+      "category": "Controller",
+      "starRating": 4
+    },
+    {
+      "id": 8,
+      "name": "Wired Headset",
+      "description": "MONSTER RGB Color Wired Gaming Headset",
+      "image": "../../../../assets/top_sales/topsale8.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale8.png",
+        "img2": "../../../../assets/top_sales/subImgs/headsetRgb1.png",
+        "img3": "../../../../assets/top_sales/subImgs/headsetRgb2.png",
+        "img4": "../../../../assets/top_sales/subImgs/headsetRgb3.png"
+      },
+      "saleAmount": 60,
+      "mainPrice": 599,
+      "priceAfterSale": 239,
+      "category": "Headset",
+      "starRating": 4
+    },
+    {
+      "id": 9,
+      "name": "Wireless Headset",
+      "description": "Sony PS5 Pulse 3D Wireless Gaming Headset",
+      "image": "../../../../assets/top_sales/topsale9.png",
+      "subImages": {
+        "img1": "../../../../assets/top_sales/topsale9.png",
+        "img2": "../../../../assets/top_sales/subImgs/wireless1.png",
+        "img3": "../../../../assets/top_sales/subImgs/wireless2.png",
+        "img4": "../../../../assets/top_sales/subImgs/wireless3.png"
+      },
+      "saleAmount": 10,
+      "mainPrice": 3199,
+      "priceAfterSale": 2879,
+      "category": "Headset",
+      "starRating": 5
+    },
+    {
+      "id": 23,
+      "name": "Gaming Keyboard",
+      "description": "RGB Mechanical Gaming Keyboard-Batknight",
+      "image": "../../../../assets/accessories/1.png",
+      "subImages": {
+        "img1": "../../../../assets/accessories/1.png",
+        "img2": "../../../../assets/accessories/2.png",
+        "img3": "../../../../assets/accessories/3.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 31999,
+      "priceAfterSale": 22199,
+      "category": "Keyboard",
+      "starRating": 4
+    },
+    {
+      "id": 24,
+      "name": "RGB Keyboard",
+      "description": "RGB Mechanical Gaming Keyboard-Batknight",
+      "image": "../../../../assets/accessories/5.png",
+      "subImages": {
+        "img1": "../../../../assets/accessories/5.png",
+        "img2": "../../../../assets/accessories/4.png",
+        "img3": "../../../../assets/accessories/6.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 81999,
+      "priceAfterSale": 57999,
+      "category": "Keyboard",
+      "starRating": 4
+    },
+    {
+      "id": 25,
+      "name": "RGB Mouse",
+      "description": "RGB Gaming Mouse with smooth moving",
+      "image": "../../../../assets/accessories/7.png",
+      "subImages": {
+        "img1": "../../../../assets/accessories/7.png",
+        "img2": "../../../../assets/accessories/8.png",
+        "img3": "../../../../assets/accessories/9.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 10999,
+      "priceAfterSale": 7799,
+      "category": "Mouse",
+      "starRating": 4
+    },
+    {
+      "id": 26,
+      "name": "RGB Mouse",
+      "description": "RGB Gaming Mouse with smooth moving",
+      "image": "../../../../assets/accessories/10.png",
+      "subImages": {
+        "img1": "../../../../assets/accessories/10.png",
+        "img2": "../../../../assets/accessories/11.png",
+        "img3": "../../../../assets/accessories/8.png"
+      },
+      "saleAmount": 30,
+      "mainPrice": 12999,
+      "priceAfterSale": 9999,
+      "category": "Mouse",
+      "starRating": 4
+    }
+  ],
+  "cartProducts": [],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "signUp": []
+}
